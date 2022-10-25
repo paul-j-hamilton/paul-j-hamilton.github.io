@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul J. Hamilton"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Paul"
+name                     : &name "Paul J. Hamilton"
 description              : &description "personal description"
 url                      : https://paul-j-hamilton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paul"
-  avatar           : "headshot.png"
+  name             : "Paul J. Hamilton"
+  avatar           : "headshot.jpg"
   bio              : "Photo by Juliana Cohen"
   location         : "Harvard Business School"
-  employer         : "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1378057"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "phamilton@hbs.edu"
