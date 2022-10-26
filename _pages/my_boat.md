@@ -1,9 +1,6 @@
 ---
 title: "My Boat"
 permalink: /my_boat/
-redirect_from: 
-  - /my_boat/
-  - /my_boat.html
 ---
 
 I own a Cal 3-30 sailboat docked in Alpena, MI. 
