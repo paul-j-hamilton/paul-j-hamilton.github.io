@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Research Summary"
-    url: /research_summary/
-
   - title: "Publications"
     url: /publications/ 
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Web Applications"
+    url: /web_applications/
     
   - title: "CV"
     url: /cv/
