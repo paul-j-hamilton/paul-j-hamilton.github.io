@@ -1,11 +1,9 @@
 ---
-title: "Data Science For Managers (DSM) I"
+title: "Data Science For Managers (DSM) II"
 collection: teaching
 type: "MBA course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Harvard Business School, Technology & Operations Management Unit"
-date: Spring 2022
-location: "City, Country"
+venue: "Harvard Business School, Technology & Operations Management Unit"\
 ---
 
 + Served as a teaching fellow; assisted MBA students with classroom coding exercises. 
