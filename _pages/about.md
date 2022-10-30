@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the Technology & Operations Management (TOM) unit at Harvard Business School. I am advised by [Iavor Bojinov](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1199332) and [Hima Lakkaraju](https://himalakkaraju.github.io/). I am a part of the AI4LIFE research group led by Hima under Harvard's D^3 Initiative. 
+I am a first-year PhD student in the Technology & Operations Management (TOM) unit at Harvard Business School. I am advised by [Iavor Bojinov](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1199332) and [Hima Lakkaraju](https://himalakkaraju.github.io/). I am a member of Hima's AI4LIFE research group and Iav's Data Science Operations Lab, both a part of Harvard's D^3 Initiative. 
 
 My research interests lie in the broad areas of explainable ML, digital transformation, and data science operations. I work on research that explores how stakeholders within organizations can use machine learning to make better decisions. In particular, I am studying how domain experts use model explanations to reconcile their subject-area expertise with the predictions of machine learning systems. I also study how firms are using data science and machine learning to transform their business operations. This includes the following questions:
 
