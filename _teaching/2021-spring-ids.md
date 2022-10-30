@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Data Science"
+title: "Introduction to Data Science (Spring 2021)"
 collection: teaching
 type: "MBA course"
 permalink: /teaching/2021-spring-ids
@@ -7,6 +7,8 @@ venue: "Harvard Business School"
 date: 2021-01-01
 location: "Boston, MA"
 ---
+
+*Teaching Fellow*
 
 Over the past decade, numerous firms have extensively invested in developing business infrastructure to collect, store, and analyze data effectively. A wide range of roles across finance, marketing, human resources, operations, innovation, and strategy now rely heavily on data for critical decision-making input and implementation. Indeed, many firms strategically differentiate themselves by their ability to translate their vast amounts of data into meaningful insights that help them gain an edge over their competitors. 
 

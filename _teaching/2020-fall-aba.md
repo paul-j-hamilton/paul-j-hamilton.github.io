@@ -1,5 +1,5 @@
 ---
-title: "Applied Business Analytics"
+title: "Applied Business Analytics (Fall 2020)"
 collection: teaching
 type: "MBA course"
 permalink: /teaching/2020-fall-aba
@@ -8,7 +8,7 @@ date: 2020-09-01
 location: "Boston, MA"
 ---
 
-### Course Overview
+*Teaching Fellow*
 
 Business Analytics has become a core function in many firms today and is driving innovation in the form of new business and operating models. Data-driven decision-making requires understanding of statistics, computer science, data visualization and data curation, communications, and ethics. A business analyst who understands all of these components is key in enabling productive conversations among engineers, statisticians and the various business functions in an organization.
 

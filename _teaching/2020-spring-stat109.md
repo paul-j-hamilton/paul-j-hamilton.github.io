@@ -1,14 +1,14 @@
 ---
-title: "STAT 109: Intro to Statistical Modelling"
+title: "STAT 109: Intro to Statistical Modelling (Spring 2020)"
 collection: teaching
-type: "MBA course"
+type: "Undergraduate course"
 permalink: /teaching/2020-spring-stat109
 venue: "Harvard Business School"
 date: 2020-09-01
 location: "Boston, MA"
 ---
 
-### Course Overview
+*Teaching Fellow*
 
 Stat  109  is  a  second  course  in  statistical  inference  and  is  a  further  examination  of  statistics  and  data analysis  beyond  the  introductory  course.    Topics  include  t‐tools  and  permutation‐based  alternatives including bootstrapping, analysis of variance, linear regression, model checking and refinement. Statistical computing and simulation based emphasis will also be covered as well as basic programming in  the  R  statistical  package.  Emphasis  is  made  on  thinking  statistically,  evaluating  assumptions,  and developing tools for real‐life applications. Note that Stat 109 cannot be taken for credit if Stat 139 has already been taken.  
  

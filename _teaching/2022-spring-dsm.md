@@ -1,5 +1,5 @@
 ---
-title: "Data Science for Managers I"
+title: "Data Science for Managers I (Spring 2022)"
 collection: teaching
 type: "MBA course"
 permalink: /teaching/2022-spring-dsm
@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Boston, MA"
 ---
 
-### Career Focus
+*Teaching Fellow*
 
 As Michael Chui, partner of McKinsey Global Institute, once said: “We believe that big data and data analytics are going to be incredibly important…It is becoming a basis of competition in every industry. Companies that learn how to use data effectively are going to be more likely to win in the marketplace and those that don’t are going to fall behind.”
 

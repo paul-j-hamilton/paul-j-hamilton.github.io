@@ -1,5 +1,5 @@
 ---
-title: "Data Science for Managers II"
+title: "Data Science for Managers II (Fall 2021)"
 collection: teaching
 type: "MBA course"
 permalink: /teaching/2021-fall-dsm2
@@ -8,7 +8,7 @@ date: 2021-09-01
 location: "Boston, MA"
 ---
 
-### Career Focus
+*Teaching Fellow*
 
 DSM2 is designed for students who already have some exposure to basic data science. DSM2 allows students to build a deeper understanding of how data and analytics can complement judgment for managerial decision making. The course builds on concepts learned in DSM1 and is specifically suited for students who want to continue their career at companies such as technology companies, where data collection, aggregation, and analysis permeates the entire organization.
 
