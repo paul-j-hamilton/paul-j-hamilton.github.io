@@ -3,7 +3,7 @@ title: "STAT 109: Intro to Statistical Modelling (Spring 2020)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-stat109
-venue: "Harvard Business School"
+venue: "Harvard University"
 date: 2020-09-01
 location: "Boston, MA"
 ---
