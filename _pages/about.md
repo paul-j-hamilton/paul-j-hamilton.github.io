@@ -15,3 +15,10 @@ My research interests lie in the broad areas of explainable ML, digital transfor
 1. How can management drive adoption of data science? How can firms build internal trust of machine learning systems? 
 2. How should firms structure data lakes and data warehouses? How does data governance affect the success of data science initiatives?
 3. How do firms stay up-to-date on new capabilities in machine learning? How is knowledge related to data science and machine learning shared throughout organizations? I am particularly insipred by the concept of [absorptive capacity](https://en.wikipedia.org/wiki/Absorptive_capacity). 
+
+### Working Principles
+
+I believe it is important to think carefully about one's working style. Below are the main principles I try to following when working on projects.
++ All projects should begin with a formal write-up of the main idea and primary objectives. This encourages clarity of thought and ensures all team members share a common understanding of the project's goals. 
++ Minimize meetings. As much work as possible should be done "offline". Only meet to discuss high-level ideas, coordinate work, and ensure deadlines are met. Before every meeting, communicate what needs to be accomplished *in writing*.
++ Invest time at the beginning of every project to organize resources (project folders, shared code, etc.). This pays dividends by preventing [technical debt](https://en.wikipedia.org/wiki/Technical_debt).{: .notice}
