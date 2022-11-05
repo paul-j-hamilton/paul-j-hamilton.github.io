@@ -18,7 +18,7 @@ My research interests lie in the broad areas of explainable ML, digital transfor
 
 ### Working Principles
 
-I believe it is important to think carefully about one's working style. Below are the main principles I try to following when working on projects.
+I believe it is important to think carefully about one's working style, and to communicate with collaborators about how to work well together. Below are the main principles I try to following when working on projects.
 + All projects should begin with a formal write-up of the main idea and primary objectives. This encourages clarity of thought and ensures all team members share a common understanding of the project's goals. 
 + Minimize meetings. As much work as possible should be done "offline". Only meet to discuss high-level ideas, coordinate work, and ensure deadlines are met. Before every meeting, communicate what needs to be accomplished *in writing*.
-+ Invest time at the beginning of every project to organize resources (project folders, shared code, etc.). This pays dividends by preventing [technical debt](https://en.wikipedia.org/wiki/Technical_debt).{: .notice}
++ Invest time at the beginning of every project to organize resources (project folders, shared code, etc.). This pays dividends by preventing [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
