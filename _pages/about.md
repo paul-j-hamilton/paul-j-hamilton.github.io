@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> I study the economic complements needed to realize the productivity gains offered by machine learning and artificial intelligence technologies. This includes data as a resource, human capital & skills, organizational processes, and business models. 
+> I study the economic complements needed for firms to realize productivity gains from machine learning and artificial intelligence. These complements include data, human capital & skills, organizational processes, and business models. 
 
 I am a first-year PhD student in the Technology & Operations Management (TOM) unit at Harvard Business School. I am advised by [Iavor Bojinov](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1199332) and [Hima Lakkaraju](https://himalakkaraju.github.io/). I am a member of Hima's AI4LIFE research group and Iav's Data Science Operations Lab, both a part of Harvard's D^3 Initiative. 
 
