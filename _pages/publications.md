@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## WORKING PAPERS
+
+---
+
+Yue, Daniel, Paul Hamilton, and Iavor I Bojinov. "Nailing Prediction: Experimental Evidence on The Value of Tools in Predictive Model Development." Harvard Business School Working Paper, No. 23-029, December 2022. https://www.hbs.edu/faculty/Pages/download.aspx?name=23-029.pdf.
+
 ## CASES AND TEACHING MATERIALS
 
 ---
